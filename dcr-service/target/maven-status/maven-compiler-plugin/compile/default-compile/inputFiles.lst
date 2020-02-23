@@ -1,0 +1,16 @@
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/dcr/web/models/DcrRequest.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/dcr/web/models/RequestInfoWrapper.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/tl/web/models/Idgen/IdGenerationResponse.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/dcr/util/Producer.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/tl/web/models/Idgen/IdGenerationRequest.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/DcrApplication.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/tl/web/models/Idgen/IdRequest.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/dcr/repository/IdGenRepository.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/dcr/enricher/Enricher.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/dcr/web/controller/DcrController.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/dcr/service/DcrService.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/dcr/repository/DcrRepository.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/dcr/web/models/Dcr.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/tl/web/models/Idgen/IdResponse.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/dcr/config/DcrConfiguration.java
+/Users/ghanshyamrawat/Documents/workspace-municipal/dcr-service/src/main/java/org/egov/dcr/web/models/DcrResponse.java
